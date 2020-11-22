@@ -4,7 +4,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 import Nav from "react-bootstrap/Nav";
 import Image from "react-bootstrap/Image";
 
-import userImg from "../assets/img/profil.png";
+import userImg from "../assets/img/profile.png";
 
 
 
