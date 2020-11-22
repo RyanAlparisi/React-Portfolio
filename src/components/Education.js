@@ -16,7 +16,7 @@ const Education = () => {
     <div className="container">
     <Title>Education</Title>
     <ListGroup variant="flush">
-    <ListGroup.Item>  <Icon.BookOpen size={16} /> Bachelor degree of Informatics</ListGroup.Item>
+    <ListGroup.Item>  <Icon.BookOpen size={16} /> College graduated</ListGroup.Item>
     </ListGroup>
       </div>
   </section>;
